@@ -7,6 +7,7 @@
     "accounts": "/accounts",
     "balance": "/balance",
     "pots": "/pots",
+    "receipts": "/transaction-receipts",
     "transactions": "/transactions",
     "transaction": "/transactions/",
     "annotateTransaction": "/transactions/",
