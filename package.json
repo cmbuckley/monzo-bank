@@ -32,8 +32,8 @@
   "author": "Alex Robinson <code@alex.solidgoldpig.com> (http://code.solidgoldpig.com/)",
   "license": "Unlicense",
   "dependencies": {
-    "lodash": "^3.10.1",
-    "request": "^2.67.0"
+    "lodash": "^4.18.0",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "babel": "^6.3.13",
